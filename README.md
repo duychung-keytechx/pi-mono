@@ -15,6 +15,8 @@
 
 # Pi Monorepo
 
+> **Note:** This repo has been forked from [https://github.com/badlogic/pi-mono](https://github.com/badlogic/pi-mono).
+
 > **Looking for the pi coding agent?** See **[packages/coding-agent](packages/coding-agent)** for installation and usage.
 
 Tools for building AI agents and managing LLM deployments.
